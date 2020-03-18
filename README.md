@@ -20,7 +20,7 @@ use [mirror list generator](https://www.archlinux.org/mirrorlist/)
 - [st](https://dwm.suckless.org/) A lightweight suckless terminal
 
 ### Graphics
-- [GIMP)(https://www.gimp.org/) photoshop ish
+- [GIMP](https://www.gimp.org/) photoshop ish
 
 ### WYSIWYG editors
 - [Atom](https://atom.io/) a truly hackable editor with amazing plugin ecosystem
