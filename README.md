@@ -7,7 +7,8 @@ use [mirror list generator](https://www.archlinux.org/mirrorlist/)
 ## useful programs
 ### misc
 - [grim](https://github.com/emersion/grim) for screenshot in wayland
-- [gscan2pdf](http://gscan2pdf.sourceforge.net/) a program that actually scans from my Pixma 6150
+- [gscan2pdf](http://gscan2pdf.sourceforge.net) a program that actually scans from my Pixma 6150
+- [pdfsam](https://pdfsam.org) a program for merging pdf files graphically
 
 ### File Managers
 - [nemo](https://wiki.archlinux.org/index.php/Nemo) lightweight fork of Nautilus
