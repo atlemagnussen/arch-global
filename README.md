@@ -23,6 +23,10 @@ use [mirror list generator](https://www.archlinux.org/mirrorlist/)
 ### Graphics
 - [GIMP](https://www.gimp.org/) photoshop ish
 
+### Image viewers
+- [Eye of Gnome](https://wiki.gnome.org/Apps/EyeOfGnome)
+- [Nomacs](https://nomacs.org/)
+
 ### WYSIWYG editors
 - [Atom](https://atom.io/) a truly hackable editor with amazing plugin ecosystem
 - [VS Code](https://code.visualstudio.com/) A fork of atom which is really developer oriented
